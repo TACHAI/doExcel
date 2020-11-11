@@ -3,7 +3,7 @@ import xlrd,xlwt
 from xlutils.copy import copy
 
 # path = os.getcwd()
-path = 'F:/删减至800张小图1M改 (2)/删减至800张小图1M改 (2)/象山书院'
+path = 'F:/南康区图书馆古籍展示文化长廊/'
 pathName = '象山书院'
 excelPath = 'C:/Users/Administrator/Desktop/江西书院/书院视频图片/图片/'
 
